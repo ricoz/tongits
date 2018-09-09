@@ -4,7 +4,7 @@ Free Tongits game with AI oppoents released in 2003.
 
 ## Screenshots
 
-![](https://cdn.rawgit.com/ricoz/tongits/54ac8b90/screenshots/1.jpg)
+![](screenshots/1.jpg)
 
 ## Ports
 
