@@ -16,3 +16,7 @@ Free Tongits game with AI oppoents released in 2003.
 
 * [Mike Sedore](http://www.mikesedore.com/) for the card graphics
 * ~~Bitmap Font by [Marius](http://cone3d.gamedev.net/)~~ (old dead link)
+
+## References
+
+* [November 2003 Announcement in Gamedev.net](https://www.gamedev.net/forums/topic/191135-announcing-stig-version-008a/)
